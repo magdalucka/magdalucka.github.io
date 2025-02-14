@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menus on Magdalena Łucka</title>
+    <link>https://blist.vercel.app/en/menu/</link>
+    <description>Recent content in Menus on Magdalena Łucka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/en/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>https://blist.vercel.app/en/menu/articles/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/menu/articles/</guid>
+      <description>List of articles 2024 Title: Impact of mining-induced seismicity on land subsidence occurrence
+Authors: Witkowski Wojciech, Łucka Magdalena, Guzy Artur, Sudhaus Henriette, Barańska Anna, Hejmanowski Ryszard
+Journal: Remote Sensing of Environment
+DOI: 10.1016/j.rse.2023.113934
+Full-text: click hereto read 2023 Title: Temporal development of the displacement field of the Ponzano landslide in February 2017
+Authors: Łucka Magdalena, Hejmanowski Ryszard, Witkowski Wojciech
+Journal: Bulletin of Geography. Socio-Economic Series
+DOI: 10.12775/bgss-2023-0039
+Full-text: click hereto read</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://blist.vercel.app/en/menu/contact/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/menu/contact/</guid>
+      <description>e-mail: magdalena.lucka@agh.edu.plResearchGateLinkedInGoogle ScholarAGH BaDAP</description>
+    </item>
+    
+    <item>
+      <title>Other activities</title>
+      <link>https://blist.vercel.app/en/menu/other/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/menu/other/</guid>
+      <description>Conferences 2024 XXXIII Szkoła Ekspolatacji Podziemnej
+[ENG: XXXIII Mineral Resources &amp;amp; Energy Congress]
+Place: Krakow, Poland
+Date: 26-28 February, 2024
+Presented topic: Możliwości wykorzystania sieci neuronowych i satelitarnych zobrazowań radarowych do monitorowania ruchów poziomych
+[ENG: Possibilities of using neural networks and satellite radar imaging to monitor horizontal movements] 2023 The International Geoscience and Remote Sensing Symposium (IGARSS)
+Place: Pasadena, USA
+Date: 16-21 July, 2023
+Presented topics: Inversion of InSAR data for estimation of earthquake source parameters, case study from Amatrice, Italy Training dataset for the machine learning approach in glacier monitoring applying SAR data Study on sinkhole formation mechanism in abandoned mines 2022 XXV Ogólnopolska Konferencja Fotointerpretacji i Teledetekcji</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://blist.vercel.app/en/menu/projects/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/menu/projects/</guid>
+      <description>Novel view on the study of glacier kinematics in the context of global climate change Role: principal investigator
+Duration: 02/2023 - 02/2026
+Source of funding: National Scientific Centre of Poland
+Main goals: The project aims to develop a new method for monitoring glacier movements using SAR data and machine learning. By combining the Offset-Tracking (OT) and DInSAR technique, with high-resolution SAR images, it will analyze changes in glacier kinematics, detect anomalies, and assess speed trends in Greenland and Svalbard.</description>
+    </item>
+    
+    <item>
+      <title>PRELUDIUM 21</title>
+      <link>https://blist.vercel.app/en/menu/preludium/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/menu/preludium/</guid>
+      <description>Novel view on the study of glacier kinematics in the context of global climate change
+Goal and siginifcance The project aims to develop a new method for monitoring glacier movements using SAR data and machine learning. By combining the Offset-Tracking (OT) and DInSAR technique, with high-resolution SAR images, it will analyze changes in glacier kinematics, detect anomalies, and assess speed trends in Greenland and Svalbard. The research involves testing machine learning algorithms to optimize displacement assessment, followed by comparative analyses using GIS software.</description>
+    </item>
+    
+  </channel>
+</rss>

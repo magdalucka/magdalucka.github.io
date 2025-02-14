@@ -1,0 +1,187 @@
+baseurl = "https://magdalucka.github.io/"
+metaDataFormat = "yaml"
+title = "Magdalena Łucka"
+theme = "blist"
+publishDir = "docs"
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 1
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "M.Sc. Magdalena Łucka"
+      introSubtitle = "I am a Research and Teaching Assistant at AGH University of Krakow, Faculty of Geo-Data Science and Environmetnal Engineering (AGH). I am mainly interested in remote sensing applications for displacement monitoring. I work mostly with satellite radar images for purposes of glacier or landslide monitoring, as well as observation of mining and post-mining areas. I am also into machine learning techniques and artificial intelligence in general."
+      introPhoto = "/Łucka_Magda.jpg"
+      #logo = "/blist-logo.png"
+    [[languages.en.menu.main]]
+        name = "Articles"
+        url = "menu/articles/"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "Projects"
+        url = "menu/projects/"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Other activities"
+        url = "menu/other/"
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "PRELUDIUM 21"
+        url = "menu/preludium/"
+        weight = 4
+		
+	[[languages.en.menu.main]]
+        name = "Contact"
+        url = "menu/contact/"
+        weight = 5
+
+  [languages.pl]
+    contentDir = "content/pl"
+    weight = 2
+    languageName = "Polski"
+    title = "Magdalena Łucka"
+    description = "Modernes Blog-Theme für Ihre Hugo-Site."
+    [languages.pl.params]
+      introTitle = "mgr inż. Magdalena Łucka"
+      introSubtitle = "Pracuję jako asystent badawczo-dydaktyczny na Wydziale Geodezji Górniczej i Inżynierii Środowiska, AGH w Krakowie. Interesuje się zastosowaniem teledetekcji do monitorowania przemieszczeń. Pracuję głównie z satelitarnymi zobrazowaniami radarowymi w celu monitorowania lodowców, osuwisk, a także obserwacji terenów pogórniczych i aktualnie eksploatowanych. Pondato interesuję się technikami uczenia maszynowego i sztuczną inteligencją, którą wykorzystuję w swojej pracy do analizy danych satelitarnych."
+      introPhoto = "/Łucka_Magda.jpg"
+    [[languages.pl.menu.main]]
+        name = "Publikacje"
+        url = "menu/publikacje/"
+        weight = 1
+
+    [[languages.pl.menu.main]]
+        name = "Projekty"
+        url = "menu/projekty/"
+        weight = 2
+
+    [[languages.pl.menu.main]]
+        name = "Inne aktywności"
+        url = "menu/inne/"
+        weight = 3
+	
+	[[languages.pl.menu.main]]
+        name = "Kontakt"
+        url = "menu/kontakt/"
+        weight = 5
+	
+	[[languages.pl.menu.main]]
+        name = "PRELUDIUM 21"
+        url = "menu/preludiumpl/"
+        weight = 4
+
+[params]
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+  
+  # Enable search in header
+  enableSearch = true
+
+  # Option to customize the search parameters of a page
+  # Below are the supported options; Note that including entire content
+  # may slowdown the loading of search results
+  # Title of page is included by default
+  searchKeys = [
+    "tags",
+    "date",
+    "categories",
+    "summary",
+    "content",
+    "link",
+    "author"
+  ]
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2023 - Magdalena Łucka · All rights reserved"
+  favicon = "/favicon.svg"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "menu"
+
+  # Used to hide the post metadata such as posted date, reading time and word count
+  # Can be used at site level or page level
+  hideMeta = true
+
+  # To hide "Other languages" option if the post is available in multiple languages
+  # Can be used at site level or page level
+  hideOtherLanguages = false
+
+  # Add support for Table of contents
+  # Can be added to a page level also in markdown frontmatter
+  toc = true
+
+  # Hides the thumbnail in post view
+  # Thumbnails in home and blog pages will still be shown
+  # This setting can also be in page's markdown file
+  hidePageThumbnail = false
+
+# Comments system
+[params.comments]
+  # Supports disqus, giscus and utterances
+  # Check hugo docs for setting up disqus
+  system = "giscus"
+
+  # Options for giscus, exclude hyphens
+  repo = ""
+  repoid = ""
+  category = ""
+  categoryid = ""
+  mapping = ""
+  strict = ""
+  reactionsenabled = ""
+  emitmetadata = ""
+  inputposition = ""
+  theme = ""
+
+  # Options for utterances, exclude hyphens
+  # repo = ""
+  # issueterm = ""
+  # theme = ""
+
+[params.homepage.social]
+  # Global params common for both languages
+  title = "Follow me"
+  description = "Find me at social media and follow my work."
+
+  [[params.homepage.social.icons]]
+    website = "linkedin"
+    url = "https://www.linkedin.com/in/magdalena-%C5%82ucka-70982b215/"
+  [[params.homepage.social.icons]]
+    website = "googlescholar"
+    url = "https://scholar.google.pl/citations?user=744RnTUAAAAJ&hl=pl"
+  [[params.homepage.social.icons]]
+    website = "facebook"
+    url = "https://www.facebook.com/profile.php?id=100001847444174"
+  [[params.homepage.social.icons]]
+    website = "researchgate"
+    url = "https://www.researchgate.net/profile/Magdalena-Lucka-2"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
+theme = 'blist'

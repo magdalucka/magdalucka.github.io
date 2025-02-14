@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menus on Magdalena Łucka</title>
+    <link>https://blist.vercel.app/pl/menu/</link>
+    <description>Recent content in Menus on Magdalena Łucka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/pl/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://blist.vercel.app/pl/menu/kontakt/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/pl/menu/kontakt/</guid>
+      <description>e-mail: magdalena.lucka@agh.edu.plResearchGateLinkedInGoogle ScholarAGH BaDAP</description>
+    </item>
+    
+    <item>
+      <title>Publikacje</title>
+      <link>https://blist.vercel.app/pl/menu/publikacje/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/pl/menu/publikacje/</guid>
+      <description>Lista artykułów oraz materiałów konferencyjnych 2024 Tytuł: Impact of mining-induced seismicity on land subsidence occurrence
+Autorzy: Witkowski Wojciech, Łucka Magdalena, Guzy Artur, Sudhaus Henriette, Barańska Anna, Hejmanowski Ryszard
+Czasopismo: Remote Sensing of Environment
+DOI: 10.1016/j.rse.2023.113934
+Dostęp: pełen tekst artykułu dostępny tutaj2023 Tytuł: Temporal development of the displacement field of the Ponzano landslide in February 2017
+Autorzy: Łucka Magdalena, Hejmanowski Ryszard, Witkowski Wojciech
+Czasopismo: Bulletin of Geography. Socio-Economic Series
+DOI: 10.</description>
+    </item>
+    
+    <item>
+      <title>Projekty</title>
+      <link>https://blist.vercel.app/pl/menu/projekty/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/pl/menu/projekty/</guid>
+      <description>Nowe spojrzenie na badanie kinematyki lodowców w kontekście globalnych zmian klimatycznych Rola: kierownik projektu
+Czast trwania: 02/2023 - 02/2026
+Źródło finansowania: Narodowe Centrum Nauki, projekt Preludium 21
+Główne cele: Projekt ma na celu opracowanie nowej metody monitorowania ruchów lodowców z wykorzystaniem danych SAR i uczenia maszynowego. Łącząc technikę Offset-Tracking (OT) i DInSAR z obrazami SAR o wysokiej rozdzielczości, przeanalizuje zmiany w kinematyce lodowca, wykryje anomalie i oceni trendy prędkości na Grenlandii i Svalbardzie.</description>
+    </item>
+    
+    <item>
+      <title>PRELUDIUM 21</title>
+      <link>https://blist.vercel.app/pl/menu/preludiumpl/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/pl/menu/preludiumpl/</guid>
+      <description>Nowe spojrzenie na badanie kinematyki lodowców w kontekście globalnych zmian klimatycznych Cel projektu oraz jego znaczenie Celem projektu jest opracowanie nowej metody monitorowania ruchów lodowców z wykorzystaniem danych SAR i uczenia maszynowego. Łącząc technikę Offset-Tracking (OT) i DInSAR z obrazami SAR o wysokiej rozdzielczości, przeanalizuje zmiany w kinematyce lodowca, wykryje anomalie i oceni trendy prędkości na Grenlandii i Svalbardzie. Badania obejmują testowanie algorytmów uczenia maszynowego w celu optymalizacji oceny przemieszczeń, a następnie analizy porównawcze z wykorzystaniem oprogramowania GIS.</description>
+    </item>
+    
+    <item>
+      <title>Inne aktywności</title>
+      <link>https://blist.vercel.app/pl/menu/inne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/pl/menu/inne/</guid>
+      <description>Konferencje 2024 XXXIII Szkoła Ekspolatacji Podziemnej
+Miejsce: Kraków, Polska
+Termin: 26-28 luty, 2024
+Zaprezentowana praca: Możliwości wykorzystania sieci neuronowych i satelitarnych zobrazowań radarowych do monitorowania ruchów poziomych 2023 The International Geoscience and Remote Sensing Symposium (IGARSS)
+Miejsce: Pasadena, USA
+Termin: 16-21 lipiec, 2023
+Zaprezentowane prace: Inversion of InSAR data for estimation of earthquake source parameters, case study from Amatrice, Italy Training dataset for the machine learning approach in glacier monitoring applying SAR data Study on sinkhole formation mechanism in abandoned mines 2022 XXV Ogólnopolska Konferencja Fotointerpretacji i Teledetekcji</description>
+    </item>
+    
+  </channel>
+</rss>

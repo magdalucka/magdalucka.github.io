@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magdalena Łucka</title>
+    <link>https://magdalucka.github.io/en/</link>
+    <description>Recent content on Magdalena Łucka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://magdalucka.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://magdalucka.github.io/en/page/about/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magdalucka.github.io/en/page/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0.Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmarkhttps://github.</description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>https://magdalucka.github.io/en/menu/articles/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magdalucka.github.io/en/menu/articles/</guid>
+      <description>List of articles 2025 Title: Investigation of machine learning algorithms to determine glaciers displacements
+Authors: Łucka Magdalena
+Journal: Remote Sensing Applications: Society and Environment
+DOI: 10.1016/j.rsase.2025.101476
+Full-text: click hereto read 2024 Title: Impact of mining-induced seismicity on land subsidence occurrence
+Authors: Witkowski Wojciech, Łucka Magdalena, Guzy Artur, Sudhaus Henriette, Barańska Anna, Hejmanowski Ryszard
+Journal: Remote Sensing of Environment
+DOI: 10.1016/j.rse.2023.113934
+Full-text: click hereto read 2023 Title: Temporal development of the displacement field of the Ponzano landslide in February 2017</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://magdalucka.github.io/en/menu/contact/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magdalucka.github.io/en/menu/contact/</guid>
+      <description>e-mail: magdalena.lucka@agh.edu.plResearchGateLinkedInGoogle ScholarAGH BaDAP</description>
+    </item>
+    
+    <item>
+      <title>Other activities</title>
+      <link>https://magdalucka.github.io/en/menu/other/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magdalucka.github.io/en/menu/other/</guid>
+      <description>Conferences 2024 XXIV Conference of PhD Students and Young Scientists
+Place: Wroclaw, Poland
+Date: 23-25 October, 2024
+Presented topic:
+Revealing changes in displacement pattern of the rapid landslide with highresolution European Polar Science Week
+Place: Copenhagen, Denmark
+Date: 03-06 September, 2024
+Presented topic:
+Determination of glaciers’ movements based on a machine learning approach EGU General Assembly
+Place: Vienna, Austria
+Date: 14-19 April, 2024
+Presented topic:
+Potential of employing a machine learning model for glacier motion monitoring XXXIII Szkoła Ekspolatacji Podziemnej</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://magdalucka.github.io/en/menu/projects/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magdalucka.github.io/en/menu/projects/</guid>
+      <description>Novel view on the study of glacier kinematics in the context of global climate change Role: principal investigator
+Duration: 02/2023 - 02/2026
+Source of funding: National Scientific Centre of Poland
+Main goals: The project aims to develop a new method for monitoring glacier movements using SAR data and machine learning. By combining the Offset-Tracking (OT) and DInSAR technique, with high-resolution SAR images, it will analyze changes in glacier kinematics, detect anomalies, and assess speed trends in Greenland and Svalbard.</description>
+    </item>
+    
+    <item>
+      <title>PRELUDIUM 21</title>
+      <link>https://magdalucka.github.io/en/menu/preludium/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magdalucka.github.io/en/menu/preludium/</guid>
+      <description>Novel view on the study of glacier kinematics in the context of global climate change
+Goal and siginifcance The project aims to develop a new method for monitoring glacier movements using SAR data and machine learning. By combining the Offset-Tracking (OT) and DInSAR technique, with high-resolution SAR images, it will analyze changes in glacier kinematics, detect anomalies, and assess speed trends in Greenland and Svalbard. The research involves testing machine learning algorithms to optimize displacement assessment, followed by comparative analyses using GIS software.</description>
+    </item>
+    
+  </channel>
+</rss>
